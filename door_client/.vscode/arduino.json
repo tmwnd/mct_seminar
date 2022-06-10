@@ -1,0 +1,6 @@
+{
+    "board": "mhetlive:avr:MHETtiny88",
+    "programmer": "mhetlive:micronucleusprog",
+    "port": "/dev/ttyS0",
+    "sketch": "door_client.ino"
+}
